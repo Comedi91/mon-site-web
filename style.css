@@ -3,7 +3,7 @@ body {
   height: 100vh;
   background: #0f0f0f;
   color: white;
-  font-family: Arial, sans-serif;
+  font-family: "Courier New", Courier, monospace;
 }
 
 /* Prénom au centre */
